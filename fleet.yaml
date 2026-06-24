@@ -1,0 +1,7 @@
+# Fleet configuration
+# This file tells Fleet how to deploy the application
+
+defaultNamespace: fleet-demo
+
+# Helm chart configuration (optional)
+# You can also use raw Kubernetes manifests
